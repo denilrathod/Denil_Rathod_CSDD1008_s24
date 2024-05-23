@@ -1,7 +1,7 @@
 package main
- 
+
 import "fmt"
 
 func main() {
-	fmt.Println("Hello Class CSDD 1008!")
+	fmt.Println("Denil Rathod 500234277")
 }
